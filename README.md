@@ -2,6 +2,8 @@
 
 ## Tasks ##
 
+**Mandatory**
+
 * 0 - Create and setup your Git and GitHub account
 
 * 1 - Repo-session
@@ -15,6 +17,8 @@
 
 * 4 - Collaboration: be up to date
 	* Update README.md file from Github.com
+
+**Advanced**
 
 * 5 - HAAA what did you do???
 	* Merging branches
